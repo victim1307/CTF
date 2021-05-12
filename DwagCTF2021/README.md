@@ -125,5 +125,6 @@ The .zip contains these standard CD files:
 .checksum.md5`
 The .cdda file contains audio data so let’s convert it to a listenable format with https://convertio.co/cdda-wav/
 The audio is then a series of short and long tones which we can immediately suspect to be Morse Code:
-which was transcribed as... ----- ... .. ... -. --- - - .... . .- -. ..... .-- ...-- .-. and decoded to be S0SISNOTTHEAN5W3R
+which was transcribed as `... ----- ... .. ... -. --- - - .... . .- -. ..... .-- ...-- .-.` and decoded to be S0SISNOTTHEAN5W3R
+
 Flag: `DawgCTF{S0SISNOTTHEAN5W3R}`
