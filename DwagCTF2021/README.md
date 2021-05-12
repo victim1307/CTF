@@ -13,7 +13,7 @@ This is the first Audio challenge I've done! Exciting! The challenge name immedi
 I've used Audacity in the past for old university music programming assignments, so I went there first and looked at the waveform and spectogram. I couldn't see anything here, so I went to Google to do some digging.
 I came across a John Hammond [video](https://www.youtube.com/watch?v=rAGkm4pv44s&t=261s) on Audio Spectograms. He mentioned using Sonic Visualizer for these type of challenges so I installed it and opened the MP3 file there.
 
-![](ThirdEyeSonic.png)
+![image](https://user-images.githubusercontent.com/78896740/118043538-20653480-b393-11eb-8e6d-331564d6bf0b.png)
 
 I could see some Hex straight away, so I manually typed them out into a Hex -> ASCII converter and got the flag.
 
