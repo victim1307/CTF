@@ -4,6 +4,7 @@
 |------------------                                                  |--------   |
 | [cookin in the ramen](cookin_the_ramen(Crypto).md)                 | Crypto    |
 | [Really Secure Algorithm](Really_Secure_Algorithm(Crypto).md)      | Crypto    |
+| [The_Obligatory_RSA_Challenge](The_Obligatory_RSA_Challenge.md)    | Crypto|
 | [Third Eye](Third_Eye(Audio_Analysis).md)                         | Audio/Radio   |
 | [Moses(Audio_Radio)](Moses(Audio_Radio).md)                        | Audio/Radio   |
 | [Deserted Island Toolkit](Deserted_Island_Toolkit(Crypto_.CD).md)  | Audio/Radio   |
