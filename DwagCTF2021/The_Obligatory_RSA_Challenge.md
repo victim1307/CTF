@@ -19,5 +19,3 @@ Usage:
 This works through multiple algorithms to recover the plaintext. Wahey! It's padded with a lot of hex, but the flag is clearly visible at the end of the string, just like Really Secure Algorithm was.
 
 Flag: `DawgCTF{wh0_n33ds_Q_@nyw@y}`
-
-note: i dont fully understand RSA, so the flag mentioning not needing q leads me to believe that maybe i didn't need both p and q to recover the flag, so this might not be the intended solution to the chall.
