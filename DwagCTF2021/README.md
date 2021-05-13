@@ -141,11 +141,9 @@ c: 32988927857804401682431374152770522962482635438011319985183776456374687223380
 ```
 
 ### Solution
-This type of challenge always draws me to using [RsaCTFTool](https://github.com/Ganapati/RsaCtfTool). It's perfect for quickly solving challs like this one.
-
-Usage:
-`python3 RsaCtfTool.py -n <given-n> -e <given-e> --uncipher <given-c>`
-
-This works through multiple algorithms to recover the plaintext. It's padded with a lot of hex, but the flag is clearly visible at the end of the string.
-
-Flag: `DawgCTF{sm@ll_d_b1g_dr3am5}` (lul)
+Moving on to the n value, we know that it is a multiple of two prime numbers. we can find it on https://factordb.com
+![image](https://user-images.githubusercontent.com/78896740/118083802-37c90f80-b3dd-11eb-9910-1c88e4c27c0f.png)
+We see that n is a perfect square and that both p & q are equal!
+now using the values that we have we can try to solve the RSA on https://dcode.fr/rsa-cipher
+![image](https://user-images.githubusercontent.com/78896740/118083836-44e5fe80-b3dd-11eb-838f-dc4de676378f.png)
+`DawgCTF{sm@ll_d_b1g_dr3am5}`
