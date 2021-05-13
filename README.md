@@ -1,3 +1,4 @@
 # CTF
 Write-ups
-| [DwagCTF2021](DwagCTF/README.md)|
+
+| [DwagCTF2021](DwagCTF2021/)|
