@@ -10,7 +10,7 @@ c = 4021527706133517386770487557083244745541701767643762363218900737539184133095
 ```
 
 ### Solution
-
+http://factordb.com/index.php?id=1100000002573617737 for p and q
 Usage:
 `python3 RsaCtfTool.py -p <factordb-p> -q <factordb-q -e <given-e> --uncipher <given-c>`
 
