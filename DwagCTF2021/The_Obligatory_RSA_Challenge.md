@@ -10,8 +10,6 @@ c = 4021527706133517386770487557083244745541701767643762363218900737539184133095
 ```
 
 ### Solution
-I followed the same steps I did in [Really Secure Algorithm](ReallySecureAlgorithm.md), but I had some issues in RsaCtfTool around zeroes. My next step was to have a look on FactorDB for the supplied `n`. I saw that FactorDB already had its factors stored. I took these (p,q) and plugged them into RsaCtfTool.
-
 
 Usage:
 `python3 RsaCtfTool.py -p <factordb-p> -q <factordb-q -e <given-e> --uncipher <given-c>`
