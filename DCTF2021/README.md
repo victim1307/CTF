@@ -1,2 +1,2 @@
-|Challanges|Category|
+Challanges Category|
 |------------
