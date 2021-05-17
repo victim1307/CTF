@@ -14,4 +14,5 @@ And now I opened the Animation plane to see the exact animation where we get the
 ![image](https://user-images.githubusercontent.com/78896740/118482931-0761d800-b733-11eb-8be1-cf90f5666645.png)
 
 And I started pressing them manually and noted the flag.
+
  flag : `DCTF {PPT_1SNT_V3RY_S3CUR3_1S_1T}`
