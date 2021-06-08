@@ -1,6 +1,3 @@
-![S.H.E.L.L.CTF](banner.png)
-
-Thanks to [shellpwn](https://ctftime.org/team/65394) for hosting [S.H.E.L.L. CTF 2021](https://shellctf.games/)
 
 |Name|Weight|Category|
 |---|---|---|
