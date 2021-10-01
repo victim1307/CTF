@@ -145,3 +145,55 @@ for i in range(255):
 ```
  
 *```FLAG:-crypto{0x10_15_my_f4v0ur173_by7e}```*
+
+### You either know, XOR you don't
+Here i know the starting plain text as "crypto{". Form there i did XOR and found key as myXORke+y
+so i assumed it to be myXORkey
+```
+message = bytes.fromhex("0e0b213f26041e480b26217f27342e175d0e070a3c5b103e2526217f27342e175d0e077e263451150104")
+partial_key = "myXORkey"
+complete_key = (partial_key * (len(message)//len(partial_key)+1))[:len(message)]
+
+flag = xor(message,complete_key)
+print(flag)
+```
+*```crypto{1f_y0u_Kn0w_En0uGH_y0u_Kn0w_1t_4ll}```*
+
+### Lemur XOR
+searched how to xor images and found a tool gmic
+```gmic flag.png lemur.png -blend xor -o result.png```
+in that image we have the flag
+![image](https://user-images.githubusercontent.com/78896740/135693634-235e8d2b-cb6f-413b-8244-8ce7f2ffbea8.png)
+*```crypto{X0Rly_n0t!}```*
+
+### Greatest Common Divisor
+```
+import math
+p = 81
+q = 57
+print(math.gcd(p,q))
+```
+The answer is *```1512```*
+
+### Extended GCD
+
+```
+import math
+p = 26513
+q = 32321
+
+def egcd(a, b):
+    if a == 0:
+        return b, 0, 1
+    else:
+        gcd, x, y = egcd(b % a, a)
+        return gcd, y - (b // a) * x, x
+ 
+ 
+if __name__ == '__main__':
+ 
+    gcd, x, y = egcd(p, q)
+    print("The GCD is", gcd)
+    print(f"x = {x}, y = {y}")
+```
+The answer is *```-8404```*
