@@ -167,6 +167,8 @@ in that image we have the flag
 
 *```crypto{X0Rly_n0t!}```*
 
+## MATHEMATICS
+
 ### Greatest Common Divisor
 ```
 import math
