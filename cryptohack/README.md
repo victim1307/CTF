@@ -164,6 +164,7 @@ searched how to xor images and found a tool gmic
 ```gmic flag.png lemur.png -blend xor -o result.png```
 in that image we have the flag
 ![image](https://user-images.githubusercontent.com/78896740/135693634-235e8d2b-cb6f-413b-8244-8ce7f2ffbea8.png)
+
 *```crypto{X0Rly_n0t!}```*
 
 ### Greatest Common Divisor
