@@ -169,7 +169,7 @@ in that image we have the flag
 
 ## *MATHEMATICS*
 
-### Greatest Common Divisor
+### *Greatest Common Divisor*
 ```
 import math
 p = 81
@@ -178,7 +178,7 @@ print(math.gcd(p,q))
 ```
 The answer is *```1512```*
 
-### Extended GCD
+### *Extended GCD*
 
 ```
 import math
@@ -200,3 +200,17 @@ if __name__ == '__main__':
     print(f"x = {x}, y = {y}")
 ```
 The answer is *```-8404```*
+
+## *DATA FORMATS*
+### *Privacy-Enhanced Mail?*
+here we are given a RSA .pem file. I just know we need to decode it and extract the the info hidden
+luckily i found this website : http://certificate.fyicenter.com/2145_FYIcenter_Public_Private_Key_Decoder_and_Viewer.html#Result
+
+![image](https://user-images.githubusercontent.com/78896740/135708500-5a8baa73-4e1e-4137-a508-e57db9c0cf87.png)
+
+it gave all the values and i even found "d" there but in hex so i decoded it using python
+![image](https://user-images.githubusercontent.com/78896740/135708518-f2ff635e-9d4b-4225-9ced-7cd7fdf9a52b.png)
+
+and got d in decimal *```d: 15682700288056331364787171045819973654991149949197959929860861228180021707316851924456205543665565810892674190059831330231436970914474774562714945620519144389785158908994181951348846017432506464163564960993784254153395406799101314760033445065193429592512349952020982932218524462341002102063435489318813316464511621736943938440710470694912336237680219746204595128959161800595216366237538296447335375818871952520026993102148328897083547184286493241191505953601668858941129790966909236941127851370202421135897091086763569884760099112291072056970636380417349019579768748054760104838790424708988260443926906673795975104689```*
+
+
