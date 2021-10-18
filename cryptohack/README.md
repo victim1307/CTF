@@ -241,4 +241,19 @@ for i in range(1,100):
 ### *Legendre Symbol*
 
 
+## RSA
+
+### *RSA Starter 1*
+![image](https://user-images.githubusercontent.com/78896740/137734401-46ac909d-9b24-4c49-90ff-c9e4f2196299.png)
+
+
+### *RSA Starter 2*
+![image](https://user-images.githubusercontent.com/78896740/137734486-99ecfac2-eb35-4af8-9ae5-ba19aede78ba.png)
+
+
+### *RS3 Starter 3*
+![image](https://user-images.githubusercontent.com/78896740/137734597-ce5c628a-585c-45b2-a174-9964cfa1bf11.png)
+
+### *RS3 Starter 4*
+
 
