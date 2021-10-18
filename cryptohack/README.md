@@ -309,3 +309,15 @@ d = pow(e,-1,pi)
 p = pow(ct , d, n)
 print(long_to_bytes(p))
 ```
+
+## PUBLIC EXPONENT
+
+### Salty
+if e=1 then ct = pt
+![image](https://user-images.githubusercontent.com/78896740/137785689-93527db1-0279-43a5-82c8-c1c070e795be.png)
+
+### Modulus Inutilis
+
+Small e attack
+
+![image](https://user-images.githubusercontent.com/78896740/137785980-bc1d26c9-8f23-4379-a941-dab990812043.png)
