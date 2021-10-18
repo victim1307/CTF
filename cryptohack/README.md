@@ -271,5 +271,17 @@ modular inverse: pow(e,-1,tot)
 ### *RSA Starter 6*
 ![image](https://user-images.githubusercontent.com/78896740/137742598-8fd7123a-caaa-4652-a2fe-a285be1728b4.png)
 
+## *PRIME PART 1*
+
+### FACTORING
+![image](https://user-images.githubusercontent.com/78896740/137743374-956c8ca0-7d3a-43ab-9960-a0d0f77aad76.png)
+
+### Inferius Prime
+![image](https://user-images.githubusercontent.com/78896740/137743750-43ea5de8-1a48-4e3c-bc11-ab5fb06e92a6.png)
+
+### MONOPRIME
+![image](https://user-images.githubusercontent.com/78896740/137773300-d2afeebd-8537-4cf4-a389-4a90973b03dd.png)
+
+### Square Eyes
 
 
