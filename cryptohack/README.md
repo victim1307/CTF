@@ -242,6 +242,11 @@ for i in range(1,100):
 
 
 ## RSA
+![image](https://user-images.githubusercontent.com/78896740/137736837-f03d7bb4-4c96-4d79-97a2-05a7f61acfb6.png)
+
+![image](https://user-images.githubusercontent.com/78896740/137736899-79f8ebbe-e901-44c0-9f43-553ff38080cb.png)
+
+website : https://www.educative.io/edpresso/what-is-the-rsa-algorithm
 
 ### *RSA Starter 1*
 ![image](https://user-images.githubusercontent.com/78896740/137734401-46ac909d-9b24-4c49-90ff-c9e4f2196299.png)
@@ -251,9 +256,20 @@ for i in range(1,100):
 ![image](https://user-images.githubusercontent.com/78896740/137734486-99ecfac2-eb35-4af8-9ae5-ba19aede78ba.png)
 
 
-### *RS3 Starter 3*
+### *RSA Starter 3*
 ![image](https://user-images.githubusercontent.com/78896740/137734597-ce5c628a-585c-45b2-a174-9964cfa1bf11.png)
 
-### *RS3 Starter 4*
+### *RSA Starter 4*
+Finding out d:
+![image](https://user-images.githubusercontent.com/78896740/137736605-bc9f2dd6-3c9c-4e6a-ab4d-2c3ffe2b4b41.png)
+
+modular inverse: pow(e,-1,tot)
+
+### *RSA Starter 5*
+![image](https://user-images.githubusercontent.com/78896740/137737911-6ca2340f-2eb4-43a8-b032-286967a4ad6e.png)
+
+### *RSA Starter 6*
+![image](https://user-images.githubusercontent.com/78896740/137742598-8fd7123a-caaa-4652-a2fe-a285be1728b4.png)
+
 
 
