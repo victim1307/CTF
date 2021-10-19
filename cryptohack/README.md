@@ -394,3 +394,12 @@ if __name__ == '__main__':
     print(codecs.decode(('%x'%m),'hex_codec'))
 ```
 
+### Everything is Still Big
+managed to get with dcode.fr
+
+![image](https://user-images.githubusercontent.com/78896740/137839690-a805f126-4ae7-45be-a09c-a574638ab83c.png)
+
+but actual method of doing it is Boneh Durfee attack.
+can see more about it in : https://github.com/mimoo/RSA-and-LLL-attacks/#boneh-durfee
+
+
