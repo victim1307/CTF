@@ -14,3 +14,6 @@ print(get_divisors(2295215232333250568867076121467149822545168433013799099035647
 
 
 these are the factors and the flag is `flag{984ur9q83ndj934jd}`
+
+even sage solved it
+![image](https://user-images.githubusercontent.com/78896740/142717576-de44f15b-77d2-41f6-8b8e-8ded3a58cbcc.png)
